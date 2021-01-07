@@ -1,0 +1,25 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "IMDB scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShruthiShetty6/WebScrapper.git"
+  },
+  "author": "Shruthi Shetty <shruthi.shetty@robosoftin.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShruthiShetty6/WebScrapper/issues"
+  },
+  "homepage": "https://github.com/ShruthiShetty6/WebScrapper#readme",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.5",
+    "json2csv": "5.0.5",
+    "request": "2.88.2",
+    "request-promise": "4.2.6"
+  }
+}
